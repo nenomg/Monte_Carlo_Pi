@@ -37,6 +37,6 @@ This code is provided under the MIT License.
 This code is inspired by the Monte Carlo method and its application to approximating pi. It is intended for educational purposes and to demonstrate the principles of Monte Carlo simulation.
 
 ## References
-Monte Carlo method
-Approximations of π
+[- Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+[- Approximations of π](https://en.wikipedia.org/wiki/Approximations_of_%CF%80)
 Feel free to modify and customize this README according to your specific needs.
