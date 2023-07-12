@@ -39,5 +39,5 @@ This code is inspired by the Monte Carlo method and its application to approxima
 ## References
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 - [Approximations of π](https://en.wikipedia.org/wiki/Approximations_of_%CF%80)
-<br/>
+
 Feel free to modify and customize this README according to your specific needs.
