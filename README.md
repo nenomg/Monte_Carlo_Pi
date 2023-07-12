@@ -14,7 +14,9 @@ numpy
 matplotlib
 You can install these libraries using the pip package manager by running the following command:
 
-```pip install numpy matplotlib```
+```
+pip install numpy matplotlib
+```
 
 ## Usage
 The main function of the code is simulate(), which performs the Monte Carlo simulation to approximate pi. It iteratively increases the number of points used in the calculation and returns a list of the pi approximations at each iteration.
